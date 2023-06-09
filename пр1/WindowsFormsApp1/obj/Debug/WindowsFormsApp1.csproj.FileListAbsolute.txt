@@ -1,0 +1,10 @@
+Z:\Общая для записи студентам\207a 2022-2023\Ибрагимов, Заказнов,Кулаков 207а\Горелов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\207a 2022-2023\Ибрагимов, Заказнов,Кулаков 207а\Горелов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\Общая для записи студентам\207a 2022-2023\Ибрагимов, Заказнов,Кулаков 207а\Горелов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Общая для записи студентам\207a 2022-2023\Ибрагимов, Заказнов,Кулаков 207а\Горелов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\207a 2022-2023\Ибрагимов, Заказнов,Кулаков 207а\Горелов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\207a 2022-2023\Ибрагимов, Заказнов,Кулаков 207а\Горелов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Общая для записи студентам\207a 2022-2023\Ибрагимов, Заказнов,Кулаков 207а\Горелов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\Общая для записи студентам\207a 2022-2023\Ибрагимов, Заказнов,Кулаков 207а\Горелов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\Общая для записи студентам\207a 2022-2023\Ибрагимов, Заказнов,Кулаков 207а\Горелов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\Общая для записи студентам\207a 2022-2023\Ибрагимов, Заказнов,Кулаков 207а\Горелов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

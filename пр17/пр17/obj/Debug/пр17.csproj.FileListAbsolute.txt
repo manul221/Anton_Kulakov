@@ -1,0 +1,25 @@
+D:\207а\пр15\пр17\пр17\bin\Debug\пр17.exe.config
+D:\207а\пр15\пр17\пр17\bin\Debug\пр17.exe
+D:\207а\пр15\пр17\пр17\bin\Debug\пр17.pdb
+D:\207а\пр15\пр17\пр17\obj\Debug\пр17.csproj.AssemblyReference.cache
+D:\207а\пр15\пр17\пр17\obj\Debug\пр17.csproj.SuggestedBindingRedirects.cache
+D:\207а\пр15\пр17\пр17\obj\Debug\пр17.Form1.resources
+D:\207а\пр15\пр17\пр17\obj\Debug\пр17.Properties.Resources.resources
+D:\207а\пр15\пр17\пр17\obj\Debug\пр17.csproj.GenerateResource.cache
+D:\207а\пр15\пр17\пр17\obj\Debug\пр17.csproj.CoreCompileInputs.cache
+D:\207а\пр15\пр17\пр17\obj\Debug\пр17.exe
+D:\207а\пр15\пр17\пр17\obj\Debug\пр17.pdb
+C:\Users\студент\Desktop\работы\пр15\пр17\пр17\bin\Debug\пр17.exe.config
+C:\Users\студент\Desktop\работы\пр15\пр17\пр17\bin\Debug\пр17.exe
+C:\Users\студент\Desktop\работы\пр15\пр17\пр17\bin\Debug\пр17.pdb
+C:\Users\студент\Desktop\работы\пр15\пр17\пр17\obj\Debug\пр17.csproj.AssemblyReference.cache
+C:\Users\студент\Desktop\работы\пр15\пр17\пр17\obj\Debug\пр17.csproj.SuggestedBindingRedirects.cache
+C:\Users\студент\Desktop\работы\пр15\пр17\пр17\obj\Debug\пр17.Form1.resources
+C:\Users\студент\Desktop\работы\пр15\пр17\пр17\obj\Debug\пр17.Properties.Resources.resources
+C:\Users\студент\Desktop\работы\пр15\пр17\пр17\obj\Debug\пр17.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\работы\пр15\пр17\пр17\obj\Debug\пр17.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\работы\пр15\пр17\пр17\obj\Debug\пр17.exe
+C:\Users\студент\Desktop\работы\пр15\пр17\пр17\obj\Debug\пр17.pdb
+C:\Users\студент\Desktop\крылов лаптев шамраев\пр17\пр17\obj\Debug\пр17.csprojAssemblyReference.cache
+C:\Users\студент\Desktop\крылов лаптев шамраев\пр17\пр17\obj\Debug\пр17.exe
+C:\Users\студент\Desktop\крылов лаптев шамраев\пр17\пр17\obj\Debug\пр17.pdb
